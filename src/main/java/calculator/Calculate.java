@@ -2,7 +2,7 @@ package calculator;
 
 public class Calculate {
 	
-	public static nt add(int x, int y)
+	public static int add(int x, int y)
 	{
 		return x+y;
 	}
