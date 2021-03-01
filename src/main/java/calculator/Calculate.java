@@ -20,6 +20,20 @@ public class Calculate {
 		System.out.println(add(x,y));
 		System.out.println(add(x,y));
 		System.out.println(add(x,y));
+				System.out.println(add(x,y));
+
+				System.out.println(add(x,y));
+
+				System.out.println(add(x,y));
+
+				System.out.println(add(x,y));
+
+				System.out.println(add(x,y));
+
+				System.out.println(add(x,y));
+
+				System.out.println(add(x,y));
+
 		System.out.println(add(x,y));
 		System.out.println(add(x,y));
 		System.out.println(subtract(x,y));
